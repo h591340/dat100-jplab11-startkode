@@ -22,7 +22,7 @@ public class Bilde extends Tekst {
 	
 	public String getUrl() {
 		//throw new UnsupportedOperationException(TODO.method());
-		return this.url;
+		return this.url];
 
 	}
 
