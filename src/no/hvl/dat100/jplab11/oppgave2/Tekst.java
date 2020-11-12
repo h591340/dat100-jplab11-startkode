@@ -6,7 +6,7 @@ import no.hvl.dat100.jplab11.oppgave1.*;
 public class Tekst extends Innlegg {
 
 	// TODO: objektvariable 
-	private String tekstl;
+	private String tekst;
 	
 	public Tekst () {
 		
